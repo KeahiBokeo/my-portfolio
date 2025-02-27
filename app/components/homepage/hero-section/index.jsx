@@ -114,29 +114,37 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name: </span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Kadueng Xaysongkham</span>
+                <span className="text-amber-300">Keahi Bokeo</span>
                 <span className="text-gray-400">{`'`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{` ['`}</span>
-                <span className="text-amber-300">Solidity</span>
+                <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Hardhat / Foundry</span>
+                <span className="text-amber-300">Python</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Laravel</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Wordpress</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NodeJS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">ReactJS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">TypeScript</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Smart Contracts</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Android</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Ruby on Rails</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Unity</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Tailwind CSS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">RabbitMQ</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">PostgreSQL</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS/GCP</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Docker</span>
+                <span className="text-amber-300">Flutter</span>
                 <span className="text-gray-400">{"']"}</span>
               </div>
               <div>
