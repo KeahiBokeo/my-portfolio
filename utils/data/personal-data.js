@@ -10,7 +10,7 @@ export const personalData = {
   facebook: "https://www.facebook.com/profile.php?id=61573694668629",
   twitter: "https://x.com/dev_bokeo",
   telegram: 'https://t.me/micky522',
-  github: "https://github.com/athenea0118",
+  github: "https://github.com/keahibokeo",
   stackOverflow: "https://stackoverflow.com/users/27899849/kadueng",
   leetcode: "https://leetcode.com/u/athenea0118/",
   devUsername: "athenea0118",
